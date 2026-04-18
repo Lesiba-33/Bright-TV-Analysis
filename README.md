@@ -1,2 +1,2 @@
-🎯# Aim and Objective
+# 🎯Aim and Objective
 The primary aim of this project is to provide actionable data-driven insights to BrightTV's CEO and the BrightTV Cusyomer Value Manegement. The analysis and strategic recommendations have been developed to support BrightTV’s Customer Value Management (CVM) team in achieving its subscription base growth objectives, incorporating insights across key factors such as age groups, ethnicities, and broader demographic segments.
