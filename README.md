@@ -6,3 +6,4 @@ This analysis leverages BrightTV’s viewership data to provide a comprehensive 
 By analysing how different audience segments—across age groups, ethnicities, and broader demographic profiles—engage with content, the study identifies trends, consumption habits, and shifts in viewer behaviour. These insights enable a deeper understanding of what drives engagement, retention, and content popularity.
 
 Ultimately, the analysis serves as a foundation for informed strategic decision-making, allowing BrightTV to refine its content strategy, personalise customer experiences, and optimise its offerings to better meet the needs of its diverse audience while supporting long-term growth objectives.
+# 🗝️Key Insights
